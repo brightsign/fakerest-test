@@ -1,8 +1,10 @@
 # Take-Home Coding Assignment
 
-## JSON REST client
+## Modern JSON REST client
 
 This coding assignment will allow us to evaluate your ability to write a REST client that processes JSON data.  This is aimed at a more senior Engineer.
+
+**You are expected to use AI assistance for this task.**
 
 When assigned this test you will also be instructed if there is a preferred language to use, usually typescript, C++ or golang.  If not directed otherwise,
 you may use any language you like. We are looking for clean, simple code that works and that is easy to read and understand.
@@ -49,4 +51,13 @@ PLEAE READ AND FOLLOW ALL THE INSTRUCTIONS.  We will ignore any submission that 
 
 ## Submission
 
-Please just submit the URL of the public GitHub repository you used for this assignment.
+Please just submit the URL of the public GitHub repository you used for this assignment.  If you don't already have a GitHub account you can sign up for one for free.
+
+In the GitHub repository please include:
+
+- a README suitable to document your work
+- the AI agent instruction file you used, if any (e.g. [CoPilot Instructions](https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot) or [Cursor Files](https://github.com/PatrickJS/awesome-cursorrules))
+- MOST IMPORTANT:  a file "PROMPTS.md" of all the prompts you used to generate the code for this assignment
+
+
+
