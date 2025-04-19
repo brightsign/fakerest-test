@@ -56,6 +56,7 @@ Please just submit the URL of the public GitHub repository you used for this ass
 In the GitHub repository please include:
 
 - a README suitable to document your work
+- your source code along with instructions for use
 - the AI agent instruction file you used, if any (e.g. [CoPilot Instructions](https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot) or [Cursor Files](https://github.com/PatrickJS/awesome-cursorrules))
 - MOST IMPORTANT:  a file "PROMPTS.md" of all the prompts you used to generate the code for this assignment
 

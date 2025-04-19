@@ -1,5 +1,5 @@
 all:
-	rm *~
+	-rm *~
 	cat README.md | md-to-pdf > BrightSign-coding-test.pdf
 
 
