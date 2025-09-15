@@ -2,7 +2,7 @@
 
 ## Modern JSON REST client
 
-This coding assignment will allow us to evaluate your ability to write a REST client that processes JSON data.  This is aimed at a more senior Engineer.
+This coding assignment will allow us to evaluate your ability to write a REST client that processes JSON data. 
 
 **You are expected to use AI assistance for this task.**
 
